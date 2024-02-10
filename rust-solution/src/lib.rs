@@ -1,3 +1,4 @@
+mod add_two_numbers;
 mod first_missing_positive;
 
 pub fn add(left: usize, right: usize) -> usize {
